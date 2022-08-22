@@ -1,10 +1,8 @@
 import { createRouter, createWebHistory } from 'vue-router'
-import HomePageVue from "../Pages/HomePage.vue"
 import RegisterPage from "../Pages/RegisterPage.vue"
 import LoginPage from "../Pages/LoginPage.vue"
 
 import addRecipe from "../components/addRecipe.vue"
-import logedHomePage from "../Pages/logedHomePage.vue"
 import recipeDetail from "../components/recipeDetail.vue"
 import mainHeader from "../components/mainHeader.vue"
 import profilePage from "../components/profilePage.vue"
