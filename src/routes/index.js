@@ -20,6 +20,11 @@ const routes = [
     component: LoginPage
   },
   {
+    path: '/',
+    name: 'homem',
+    component: LoginPage
+  },
+  {
     path: '/recipe/:id',
     name: 'dashboard',
     component: recipeDetail,
